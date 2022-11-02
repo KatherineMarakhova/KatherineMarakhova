@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katherine Marakhova!
 - 👀 I’m interested in manual and automation QA testing.
 - 🌱 I’m currently learning automation testing with Selenium Webdriver and study 4-th year at the State University of Management, Applied Math & IT.
-- 💞️ Open for talk and collaborations with passionate people and organizations for greater work.
+- 💞️ Open for collaborations with passionate people and organizations for greater work.
 - 📫 You can contact me by my e-mail: katherine.marakhova@gmail.com
